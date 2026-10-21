@@ -1,7 +1,7 @@
 body {
-  background-colour: #000000; /* Warna hitam */
+  background-color: #000000; /* Warna hitam */
   font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
-  colour: #FFC0CB; /* Warna teks utama (merah jambu) */
+  color: #FFC0CB; /* Warna teks utama (merah jambu) */
 }
 
 .kartu-profil {
