@@ -10,7 +10,7 @@ body {
   Padding: 20px;
   background-colour: White;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */
-  box-shadow: 0px 4px 8pc rgba(0,0,0,0,1); /*Efek bayangan */
+  box-shadow: 0px 4px 8px rgba(0,0,0,0,1); /*Efek bayangan */
   text-align: center; /*menengah semua teks dalam kartu */
 }
 
